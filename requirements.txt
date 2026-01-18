@@ -1,4 +1,4 @@
-# It is the example file for the workshop 2 activities for Git. 
-## Please add any texts in this file. 
+It is the example file, requirements.txt for the workshop 2 activities for Git. 
 
-Please revise the texts in this file.
+You can edit or revise the texts in this requirements.txt file.
+
