@@ -2,6 +2,3 @@ It is the example file, requirements.txt for the workshop 2 activities for Git.
 
 You can edit or revise the texts in this requirements.txt file.
 
-There is no text seaborn in this file yet. 
-
-
